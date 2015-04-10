@@ -1,0 +1,56 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ARSis v1.2", "Install ARSis v1.2\Install ARSis v1.2.vdproj", "{5E5A3F3B-5C4F-4100-BC6A-C1F6F7B344A1}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Editor de Registros Sísmicos", "..\Editor de Registros Sísmicos\Editor de Registros Sísmicos.vbproj", "{EDBC1C50-A1DC-4349-92B1-F16090357F07}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Base de Registros", "..\Base de Registros\Base de Registros.vbproj", "{D47305AD-D00B-4482-835B-C8356A4EA9E8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EDBC1C50-A1DC-4349-92B1-F16090357F07} = {EDBC1C50-A1DC-4349-92B1-F16090357F07}
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AutomEVT", "..\AutomEVT\AutomEVT\AutomEVT.vbproj", "{FBB8B570-7D34-4A4F-8A27-53B2A5A5C971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SoloEditorReg|Any CPU = SoloEditorReg|Any CPU
+		soloINST|Any CPU = soloINST|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E5A3F3B-5C4F-4100-BC6A-C1F6F7B344A1}.Debug|Any CPU.ActiveCfg = Debug
+		{5E5A3F3B-5C4F-4100-BC6A-C1F6F7B344A1}.Debug|Any CPU.Build.0 = Debug
+		{5E5A3F3B-5C4F-4100-BC6A-C1F6F7B344A1}.Release|Any CPU.ActiveCfg = Release
+		{5E5A3F3B-5C4F-4100-BC6A-C1F6F7B344A1}.SoloEditorReg|Any CPU.ActiveCfg = SoloEditorReg
+		{5E5A3F3B-5C4F-4100-BC6A-C1F6F7B344A1}.soloINST|Any CPU.ActiveCfg = soloINST
+		{5E5A3F3B-5C4F-4100-BC6A-C1F6F7B344A1}.soloINST|Any CPU.Build.0 = soloINST
+		{EDBC1C50-A1DC-4349-92B1-F16090357F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBC1C50-A1DC-4349-92B1-F16090357F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBC1C50-A1DC-4349-92B1-F16090357F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBC1C50-A1DC-4349-92B1-F16090357F07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDBC1C50-A1DC-4349-92B1-F16090357F07}.SoloEditorReg|Any CPU.ActiveCfg = SoloEditorReg|Any CPU
+		{EDBC1C50-A1DC-4349-92B1-F16090357F07}.SoloEditorReg|Any CPU.Build.0 = SoloEditorReg|Any CPU
+		{EDBC1C50-A1DC-4349-92B1-F16090357F07}.soloINST|Any CPU.ActiveCfg = soloINST|Any CPU
+		{EDBC1C50-A1DC-4349-92B1-F16090357F07}.soloINST|Any CPU.Build.0 = soloINST|Any CPU
+		{D47305AD-D00B-4482-835B-C8356A4EA9E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47305AD-D00B-4482-835B-C8356A4EA9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47305AD-D00B-4482-835B-C8356A4EA9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47305AD-D00B-4482-835B-C8356A4EA9E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D47305AD-D00B-4482-835B-C8356A4EA9E8}.SoloEditorReg|Any CPU.ActiveCfg = SoloEditorReg|Any CPU
+		{D47305AD-D00B-4482-835B-C8356A4EA9E8}.SoloEditorReg|Any CPU.Build.0 = SoloEditorReg|Any CPU
+		{D47305AD-D00B-4482-835B-C8356A4EA9E8}.soloINST|Any CPU.ActiveCfg = soloINST|Any CPU
+		{D47305AD-D00B-4482-835B-C8356A4EA9E8}.soloINST|Any CPU.Build.0 = soloINST|Any CPU
+		{FBB8B570-7D34-4A4F-8A27-53B2A5A5C971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB8B570-7D34-4A4F-8A27-53B2A5A5C971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB8B570-7D34-4A4F-8A27-53B2A5A5C971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB8B570-7D34-4A4F-8A27-53B2A5A5C971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBB8B570-7D34-4A4F-8A27-53B2A5A5C971}.SoloEditorReg|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB8B570-7D34-4A4F-8A27-53B2A5A5C971}.SoloEditorReg|Any CPU.Build.0 = Release|Any CPU
+		{FBB8B570-7D34-4A4F-8A27-53B2A5A5C971}.soloINST|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB8B570-7D34-4A4F-8A27-53B2A5A5C971}.soloINST|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,288 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EDBC1C50-A1DC-4349-92B1-F16090357F07}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>Icns\Wave.ico</ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>Editor de Registros Sísmicos</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>Editor_de_Registros_Sísmicos</RootNamespace>
+    <StartupObject>Editor_de_Registros_Sísmicos.My.MyApplication</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>WindowsForms</MyType>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>Editor de Registros Sísmicos.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>Editor de Registros Sísmicos.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'SoloEditorReg|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>Editor de Registros Sísmicos.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'soloINST|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>Editor de Registros Sísmicos.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Box.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ClassDibujo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Hojas\about.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hojas\bugger.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hojas\Colores.Designer.vb">
+      <DependentUpon>Colores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hojas\Colores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hojas\Escalar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hojas\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hojas\guardar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hojas\ImpSAP.Designer.vb">
+      <DependentUpon>ImpSAP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hojas\ImpSAP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hojas\Lista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hojas\prop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hojas\SplashScreen1.Designer.vb">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hojas\SplashScreen1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hojas\Transf.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hojas\TRFview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hojas\Utilidades.vb" />
+    <Compile Include="Hojas\Ventana.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hojas\Zm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Content Include="Icns\amort.ico" />
+    <Content Include="Icns\Dere.ico" />
+    <Content Include="Icns\espec.ico" />
+    <Content Include="Icns\EspeNeg.ico" />
+    <EmbeddedResource Include="Hojas\Colores.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Colores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hojas\SplashScreen1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Icns\ico116.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Icns\ico117.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <Content Include="Icns\Izqu.ico" />
+    <Content Include="Icns\SAPimport.ico" />
+    <Content Include="Icns\Wave.ico" />
+    <None Include="Resources\Banner2 ARSis copy.bmp" />
+    <None Include="Resources\about1 copy.jpg" />
+    <Content Include="Resources\ico116.ico" />
+    <Content Include="Resources\ico117.ico" />
+    <Content Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </Content>
+    <Content Include="Wave.ico" />
+    <EmbeddedResource Include="Hojas\about.resx">
+      <DependentUpon>about.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hojas\bugger.resx">
+      <DependentUpon>bugger.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hojas\Escalar.resx">
+      <DependentUpon>Escalar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hojas\Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hojas\guardar.resx">
+      <DependentUpon>guardar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hojas\ImpSAP.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ImpSAP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hojas\Lista.resx">
+      <DependentUpon>Lista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hojas\prop.resx">
+      <DependentUpon>prop.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hojas\Transf.resx">
+      <DependentUpon>Transf.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hojas\TRFview.resx">
+      <DependentUpon>TRFview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hojas\Ventana.resx">
+      <DependentUpon>Ventana.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hojas\Zm.resx">
+      <DependentUpon>Zm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <SubType>Designer</SubType>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

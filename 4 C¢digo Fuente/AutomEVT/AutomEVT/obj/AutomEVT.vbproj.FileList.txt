@@ -1,0 +1,12 @@
+obj\Debug\AutomEVT.exe
+obj\Debug\AutomEVT.xml
+obj\Debug\AutomEVT.pdb
+bin\Release\AutomEVT.exe
+bin\Release\AutomEVT.pdb
+bin\Release\AutomEVT.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\AutomEVT.Resources.resources
+obj\Release\AutomEVT.vbproj.GenerateResource.Cache
+obj\Release\AutomEVT.exe
+obj\Release\AutomEVT.xml
+obj\Release\AutomEVT.pdb

@@ -1,0 +1,48 @@
+obj\Debug\Editor de Registros Sísmicos.exe
+obj\Debug\Editor de Registros Sísmicos.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Editor_de_Registros_Sísmicos.about.resources
+obj\Debug\Editor_de_Registros_Sísmicos.bugger.resources
+obj\Debug\Editor_de_Registros_Sísmicos.Escalar.resources
+obj\Debug\Editor_de_Registros_Sísmicos.Form1.resources
+obj\Debug\Editor_de_Registros_Sísmicos.guardar.resources
+obj\Debug\Editor_de_Registros_Sísmicos.Lista.resources
+obj\Debug\Editor_de_Registros_Sísmicos.prop.resources
+obj\Debug\Editor_de_Registros_Sísmicos.Transf.resources
+obj\Debug\Editor_de_Registros_Sísmicos.TRFview.resources
+obj\Debug\Editor_de_Registros_Sísmicos.Ventana.resources
+obj\Debug\Editor_de_Registros_Sísmicos.Zm.resources
+obj\Debug\Editor de Registros Sísmicos.vbproj.GenerateResource.Cache
+obj\Debug\Editor de Registros Sísmicos.xml
+obj\Debug\Editor_de_Registros_Sísmicos.ImpSAP.resources
+obj\Debug\Editor_de_Registros_Sísmicos.Resources.resources
+bin\Icns\ico116.ico
+bin\Icns\ico117.ico
+bin\Editor de Registros Sísmicos.exe.config
+bin\Editor de Registros Sísmicos.exe
+bin\Editor de Registros Sísmicos.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Editor_de_Registros_Sísmicos.ico116.ico
+obj\Release\Editor_de_Registros_Sísmicos.ico117.ico
+obj\Release\Editor_de_Registros_Sísmicos.about.resources
+obj\Release\Editor_de_Registros_Sísmicos.bugger.resources
+obj\Release\Editor_de_Registros_Sísmicos.Escalar.resources
+obj\Release\Editor_de_Registros_Sísmicos.Form1.resources
+obj\Release\Editor_de_Registros_Sísmicos.guardar.resources
+obj\Release\Editor_de_Registros_Sísmicos.ImpSAP.resources
+obj\Release\Editor_de_Registros_Sísmicos.Lista.resources
+obj\Release\Editor_de_Registros_Sísmicos.prop.resources
+obj\Release\Editor_de_Registros_Sísmicos.Transf.resources
+obj\Release\Editor_de_Registros_Sísmicos.TRFview.resources
+obj\Release\Editor_de_Registros_Sísmicos.Ventana.resources
+obj\Release\Editor_de_Registros_Sísmicos.Zm.resources
+obj\Release\Editor_de_Registros_Sísmicos.Resources.resources
+obj\Release\Editor de Registros Sísmicos.vbproj.GenerateResource.Cache
+obj\Release\Editor de Registros Sísmicos.exe
+obj\Release\Editor de Registros Sísmicos.xml
+obj\Release\Editor_de_Registros_Sísmicos.SplashScreen1.resources
+obj\Debug\Editor_de_Registros_Sísmicos.ico116.ico
+obj\Debug\Editor_de_Registros_Sísmicos.ico117.ico
+obj\Debug\Editor_de_Registros_Sísmicos.SplashScreen1.resources
+obj\Debug\Editor_de_Registros_Sísmicos.Colores.resources
+obj\Release\Editor_de_Registros_Sísmicos.Colores.resources

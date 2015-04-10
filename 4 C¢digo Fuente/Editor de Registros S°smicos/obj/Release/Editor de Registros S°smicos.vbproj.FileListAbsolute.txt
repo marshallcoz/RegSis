@@ -1,0 +1,25 @@
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\bin\Icns\ico116.ico
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\bin\Icns\ico117.ico
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\bin\Editor de Registros Sísmicos.exe.config
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\bin\Editor de Registros Sísmicos.exe
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\bin\Editor de Registros Sísmicos.xml
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\obj\Release\ResolveAssemblyReference.cache
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\obj\Release\Editor_de_Registros_Sísmicos.Colores.resources
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\obj\Release\Editor_de_Registros_Sísmicos.SplashScreen1.resources
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\obj\Release\Editor_de_Registros_Sísmicos.about.resources
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\obj\Release\Editor_de_Registros_Sísmicos.bugger.resources
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\obj\Release\Editor_de_Registros_Sísmicos.Escalar.resources
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\obj\Release\Editor_de_Registros_Sísmicos.Form1.resources
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\obj\Release\Editor_de_Registros_Sísmicos.guardar.resources
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\obj\Release\Editor_de_Registros_Sísmicos.ImpSAP.resources
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\obj\Release\Editor_de_Registros_Sísmicos.Lista.resources
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\obj\Release\Editor_de_Registros_Sísmicos.prop.resources
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\obj\Release\Editor_de_Registros_Sísmicos.Transf.resources
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\obj\Release\Editor_de_Registros_Sísmicos.TRFview.resources
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\obj\Release\Editor_de_Registros_Sísmicos.Ventana.resources
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\obj\Release\Editor_de_Registros_Sísmicos.Zm.resources
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\obj\Release\Editor_de_Registros_Sísmicos.Resources.resources
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\obj\Release\GenerateResource.read.1.tlog
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\obj\Release\GenerateResource.write.1.tlog
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\obj\Release\Editor de Registros Sísmicos.exe
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\Editor de Registros S°smicos\obj\Release\Editor de Registros Sísmicos.xml

@@ -1,0 +1,11 @@
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\AutomEVT\AutomEVT\bin\Release\AutomEVT.exe.config
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\AutomEVT\AutomEVT\bin\Release\AutomEVT.exe
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\AutomEVT\AutomEVT\bin\Release\AutomEVT.pdb
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\AutomEVT\AutomEVT\bin\Release\AutomEVT.xml
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\AutomEVT\AutomEVT\obj\Release\ResolveAssemblyReference.cache
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\AutomEVT\AutomEVT\obj\Release\AutomEVT.Resources.resources
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\AutomEVT\AutomEVT\obj\Release\GenerateResource.read.1.tlog
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\AutomEVT\AutomEVT\obj\Release\GenerateResource.write.1.tlog
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\AutomEVT\AutomEVT\obj\Release\AutomEVT.exe
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\AutomEVT\AutomEVT\obj\Release\AutomEVT.xml
+Z:\Downloads\Software Anexo A\4 C¢digo Fuente\AutomEVT\AutomEVT\obj\Release\AutomEVT.pdb

@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Registros 1a Prop", "..\Registros 1a Prop\Registros 1a Prop.vbproj", "{D47305AD-D00B-4482-835B-C8356A4EA9E8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Editor de Registros Sísmicos", "..\Editor de Registros Sísmicos\Editor de Registros Sísmicos.vbproj", "{EDBC1C50-A1DC-4349-92B1-F16090357F07}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Install ARSis v1.2", "Install ARSis v1.2\Install ARSis v1.2.vdproj", "{5E5A3F3B-5C4F-4100-BC6A-C1F6F7B344A1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+		SoloEditorReg = SoloEditorReg
+		soloINST = soloINST
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D47305AD-D00B-4482-835B-C8356A4EA9E8}.Debug.ActiveCfg = Debug|.NET
+		{D47305AD-D00B-4482-835B-C8356A4EA9E8}.Debug.Build.0 = Debug|.NET
+		{D47305AD-D00B-4482-835B-C8356A4EA9E8}.Release.ActiveCfg = Release|.NET
+		{D47305AD-D00B-4482-835B-C8356A4EA9E8}.Release.Build.0 = Release|.NET
+		{D47305AD-D00B-4482-835B-C8356A4EA9E8}.SoloEditorReg.ActiveCfg = SoloEditorReg|.NET
+		{D47305AD-D00B-4482-835B-C8356A4EA9E8}.soloINST.ActiveCfg = soloINST|.NET
+		{EDBC1C50-A1DC-4349-92B1-F16090357F07}.Debug.ActiveCfg = Debug|.NET
+		{EDBC1C50-A1DC-4349-92B1-F16090357F07}.Debug.Build.0 = Debug|.NET
+		{EDBC1C50-A1DC-4349-92B1-F16090357F07}.Release.ActiveCfg = Release|.NET
+		{EDBC1C50-A1DC-4349-92B1-F16090357F07}.Release.Build.0 = Release|.NET
+		{EDBC1C50-A1DC-4349-92B1-F16090357F07}.SoloEditorReg.ActiveCfg = SoloEditorReg|.NET
+		{EDBC1C50-A1DC-4349-92B1-F16090357F07}.SoloEditorReg.Build.0 = SoloEditorReg|.NET
+		{EDBC1C50-A1DC-4349-92B1-F16090357F07}.soloINST.ActiveCfg = soloINST|.NET
+		{5E5A3F3B-5C4F-4100-BC6A-C1F6F7B344A1}.Debug.ActiveCfg = Debug
+		{5E5A3F3B-5C4F-4100-BC6A-C1F6F7B344A1}.Debug.Build.0 = Debug
+		{5E5A3F3B-5C4F-4100-BC6A-C1F6F7B344A1}.Release.ActiveCfg = Release
+		{5E5A3F3B-5C4F-4100-BC6A-C1F6F7B344A1}.SoloEditorReg.ActiveCfg = SoloEditorReg
+		{5E5A3F3B-5C4F-4100-BC6A-C1F6F7B344A1}.soloINST.ActiveCfg = soloINST
+		{5E5A3F3B-5C4F-4100-BC6A-C1F6F7B344A1}.soloINST.Build.0 = soloINST
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

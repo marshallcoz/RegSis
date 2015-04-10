@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Lib">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Administrador\Mis documentos\2003 my VS Projects\Mios\Lib\Lib.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\Administrador\Mis documentos\2003 my VS Projects\Mios\Lib\Lib.suo">
+</Property><Property Name="Date" Value="Lunes, 28 de Enero de 2008">
+</Property><Property Name="Time" Value="17:39 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Lib.sln" Description="File successfully backed up as C:\Documents and Settings\Administrador\Mis documentos\2003 my VS Projects\Mios\Lib\Backup\Lib.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Lib.suo" Description="File successfully backed up as C:\Documents and Settings\Administrador\Mis documentos\2003 my VS Projects\Mios\Lib\Backup\Lib.suo">
+</Event><Event ErrorLevel="0" Project="Lib" Source="Lib.vbproj" Description="Project file successfully backed up as C:\Documents and Settings\Administrador\Mis documentos\2003 my VS Projects\Mios\Lib\Backup\Lib.vbproj">
+</Event><Event ErrorLevel="0" Project="Lib" Source="Lib.vbproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\Administrador\Mis documentos\2003 my VS Projects\Mios\Lib\Backup\Lib.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Lib" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Documents and Settings\Administrador\Mis documentos\2003 my VS Projects\Mios\Lib\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Lib" Source="Form1.vb" Description="File successfully backed up as C:\Documents and Settings\Administrador\Mis documentos\2003 my VS Projects\Mios\Lib\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Lib" Source="Form1.resx" Description="File successfully backed up as C:\Documents and Settings\Administrador\Mis documentos\2003 my VS Projects\Mios\Lib\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Lib" Source="Lib.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Lib" Source="Lib.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Lib.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Lib.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Lib" Source="Lib.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,27 @@
+obj\Release\Registros 1a Prop.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Registros 1a Prop.vbproj.ResolveComReference.cache
+obj\Release\Registros_1a_Prop.about.resources
+obj\Release\Registros_1a_Prop.Consulta.resources
+obj\Release\Registros_1a_Prop.Filtro.resources
+obj\Release\Registros_1a_Prop.FrmView.resources
+obj\Release\Registros_1a_Prop.Main.resources
+obj\Release\Registros 1a Prop.vbproj.GenerateResource.Cache
+obj\Release\Registros 1a Prop.xml
+bin\Registros 1a Prop.exe
+bin\Registros 1a Prop.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Registros 1a Prop.vbproj.ResolveComReference.cache
+obj\Debug\Registros_1a_Prop.about.resources
+obj\Debug\Registros_1a_Prop.Consulta.resources
+obj\Debug\Registros_1a_Prop.Filtro.resources
+obj\Debug\Registros_1a_Prop.FrmView.resources
+obj\Debug\Registros_1a_Prop.Main.resources
+obj\Debug\Registros 1a Prop.vbproj.GenerateResource.Cache
+obj\Debug\Registros 1a Prop.exe
+obj\Debug\Registros 1a Prop.xml
+obj\Debug\Registros 1a Prop.pdb
+obj\Release\Registros_1a_Prop.Resources.resources
+obj\Debug\Registros_1a_Prop.Dialog1.resources
+obj\Debug\Registros_1a_Prop.Resources.resources
+obj\Release\Registros_1a_Prop.Dialog1.resources

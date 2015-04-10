@@ -1,0 +1,40 @@
+(_) __| | ___ _ __ | |_(_)/ _(_) ___ __ _  ___(_) ___  _ __  
+| |/ _` |/ _ \ '_ \| __| | |_| |/ __/ _` |/ __| |/ _ \| '_ \ 
+| | (_| |  __/ | | | |_| |  _| | (_| (_| | (__| | (_) | | | |
+|_|\__,_|\___|_| |_|\__|_|_| |_|\___\__,_|\___|_|\___/|_| |_|
+  ___  ___| |_ _ __ _   _  ___| |_ _   _ _ __ __ _| |
+ / _ \/ __| __| '__| | | |/ __| __| | | | '__/ _` | |
+|  __/\__ \ |_| |  | |_| | (__| |_| |_| | | | (_| | |
+ \___||___/\__|_|   \__,_|\___|\__|\__,_|_|  \__,_|_|
+
+Se presenta un conjunto de programas de cómputo para PC y rutinas de Matlab (Mathworks Inc.) para automatizar tareas comunes en el área de identificación de sistemas con aplicación en la identificación de parámetros dinámicos en sistemas estructurales.
+
+Los tópicos cubiertos por el software presentado son:
+
+1.Gestión de conjuntos de registros (descompresión EVT, pre visualización y obtención de valores característicos).
+2.Procesamiento de señales (correcciones de escala, cálculo del espectro y filtrado).
+3.Identificación con técnicas no paramétricas (Función de Transferencia y Coherencia).
+4.Identificación con técnicas paramétricas (ARX, ARMAX, Box-Jenkins, Output Error y State Space). Se utiliza rangos de búsqueda en el orden de los polinomios y los resultados se presentan en diagramas de estabilización, los cuales pueden analizarse estadísticamente.
+
+El software presentado tiene interfaz gráfica y se agrupa en tres programas independientes, el tópico 1 es cubierto por IdEst – Base de Registros, los tópicos 2 y 3 por IdEst - Editor y el tópico 4 por Diagest dentro de Matlab.
+
+Los contenidos de la descarga son:
+
+1. Instalación IdEst (Windows).
+2. Diagest (Matlab, incluye interfaz gráfica).
+3. Manual.
+4. Código fuente de IdEst (Visual Basic.NET)
+
+El propósito de este trabajo es agilizar el proceso de identificación estructural y posibilitar la ratificación de los modos identificados.
+
+El sofware está preparado para trabajar (y descomprimir automáticamente) registros acelerográficos de registradoras Kinemetrics (M.R.), mediante las rutinas suministradas por este fabricante.
+
+Para ejecutar Diagest se requiere el módulo system identification toolbox 
+
+Se hace un sincero reconocimiento al doctor Jesús Valdés González de la Universidad Autónoma del Estado de México por sus comentarios, recomendaciones y ayuda en el desarrollo de este proyecto.
+
+Sus dudas y comentarios serán bien recibidos. Nota: El software puede contener características adicionales.
+
+Marcial Contreras Zazueta
+marcialcz@gmail.com
+

@@ -1,0 +1,203 @@
+
+KW2ASC: C:\SISM\M0200001.EVT   05/02/2005 13:19 
+Altus Header, Version. 1.40,  S/N 2384
+K2  Stn: SCTT  Site: 
+ 12  channel unit, 4 channel(s) selected:  1 2 3 4
+ Keyboard or External Trigger
+Comment: Edificio SCT 2 de Mayo
+UserCodes:   0  0  0  0
+
+Main battery: 13.40V, charging, minimum alarm voltage: 12.0V
+   24 bit A/D with group delay: 0 msec
+Temperature:  20.7 deg.C
+
+Restart Source(s):
+  None Known.
+
+System Error(s):
+  None Known.
+
+Block File Transfer Buffer: Dynamic 256 - 2048 bytes
+
+Altus Time Source: Keyboard.
+Event Start Time: 5/2/2005 (122) 13:17:54.000
+Event Trigger Time: 5/2/2005 (122) 13:17:55.100
+
+Samples per second:  100
+Duration:  82.000 seconds, 820 frames
+Pre-event:  1 seconds.
+Minimum runtime:  1 seconds.
+Post event:  1 seconds.
+Array Propagation Window:  0 seconds.
+Storage: Primary  A:, Secondary  A: 
+
+Digital Field Station OFF.
+
+Program versions:   sysBlk 0.00, bootBlk  1.13,
+                    appBlk 3.02,  dspBlk  9.03
+
+User input or GPS averaged:
+Instrument latitude: 19.282650 Degrees North
+Instrument longitude: -99.677101 Degrees East
+Instrument elevation: 2693 Meters relative sea level.
+
+GPS latitude:  0.00 Degrees North
+GPS longitude:  0.00 Degrees East
+GPS altitude: 0 Meters relative sea level.
+
+Ch                    1               2               3
+  MaxPeak:        0.0244623V     -0.0064898V     -0.0038421V
+   at seconds:        60.400          60.400           6.230
+  MinPeak:       -0.0041986V     -0.0357002V     -0.0609702V
+   at seconds:        60.040          60.070           6.370
+  Mean:           0.0101379V     -0.0211114V     -0.0334519V
+  AcqOffset:      0.0000000V      0.0000000V      0.0000000V
+
+Ch                    4              
+  MaxPeak:       -0.0085503V    
+   at seconds:         6.230    
+  MinPeak:       -0.0680351V    
+   at seconds:         7.700    
+  Mean:          -0.0390881V     
+  AcqOffset:      0.0000000V   
+
+Ch                    1                2                3
+  Chan ID:           ----,            ----,            ----,
+  Sensors:       EpiSensor (32)   EpiSensor (32)   EpiSensor (32) 
+                   s/n   480        s/n   481        s/n   482
+  MappedChannel:      1                2                3 
+  Inverted:           no               no               no 
+  Displace, N:       0000,            0000,            0000,
+  Displace, E:       0000,            0000,            0000,
+  Displace, U:       0000,            0000,            0000,
+  Alt,Azi(deg):      0,      0        0,      0        0,      0
+
+Ch                    4               
+  Chan ID:           ----,            
+  Sensors:       EpiSensor (32) 
+                   s/n   483        
+  MappedChannel:      4             
+  Inverted:           no             
+  Displace, N:       0000,            
+  Displace, E:       0000,            
+  Displace, U:       0000,            
+  Alt,Azi(deg):      0,      0   
+
+Ch                    1                2                3
+  Gain:               1                1                1
+  Fullscale         2.50V            2.50V            2.50V
+  Sensitivity:      2.4980V/g        2.4990V/g        2.4960V/g
+  Damping:          0.7000           0.7000           0.7000
+  NatFreq:         196.00Hz          196.00Hz          196.00Hz
+   EpiSensor only:
+   CalCoil:         0.0630           0.0600           0.0610
+   Sensor Gain:       1                1                1   
+   Range:             1g               1g               1g     
+ Sensed Sensitivity: 2.5V/g           2.5V/g           2.5V/g  
+
+
+Ch                    4               
+  Gain:               1                
+  Fullscale         2.50V           
+  Sensitivity:      2.5020V/g       
+  Damping:          0.7000           
+  NatFreq:         204.00Hz          
+   EpiSensor only:
+   CalCoil:         0.0600           
+   Sensor Gain:       1             
+   Range:             1g             
+ Sensed Sensitivity: 2.5V/g          
+
+
+Ch                          1                2                3
+Trigger Filter:        Classic SM       Classic SM       Classic SM
+Trigger Type:           Threshold        Threshold        Threshold
+Threshold:
+ Trigger Threshold:      2.000%FS         2.000%FS         2.000%FS
+ Detrigger Threshold:    2.000%FS         2.000%FS         2.000%FS
+STA/LTA:
+ STA Length(sec):          ----             ----             ----
+ LTA Length(sec):          ----             ----             ----
+ Trigger Ratio:            ----             ----             ----
+ Detrigger % of Trigger    ----             ----             ----
+Alarm Trig Threshold:    2.000%FS         2.000%FS         2.000%FS
+               Votes:        1                1                1
+
+Ch                          4               
+Trigger Filter:        Classic SM       
+Trigger Type:           Threshold        
+Threshold:
+ Trigger Threshold:      2.000%FS       
+ Detrigger Threshold:    2.000%FS       
+STA/LTA:
+ STA Length(sec):          ----             
+ LTA Length(sec):          ----             
+ Trigger Ratio:            ----            
+ Detrigger % of Trigger    ----            
+Alarm Trig Threshold:    2.000%FS       
+               Votes:        1            
+
+Anti-alias Filter:  Non-causal
+External Trigger:  OFF,   Votes: 1
+Keyboard Trigger Votes: 10
+Stream:   Votes to trigger: 10,   Votes to detrigger: 10
+
+GPS Free Field.
+GPS turn On interval:  30 minutes(s).
+GPS maximum On time:  30 minute(s)
+All times as set manually, or 0.00 hour(s) from UTC if from GPS
+Clock Source: Keyboard.
+GPS Status byte decoded:
+   GPS present.
+   GPS not locked.
+   GPS power is ON.
+GPS state of health byte [same as Acutime SOH byte]:
+  Don't have GPS time yet.
+GPS updated the RTC 0 times since last reset.
+Drift at last two RTC updates to UTC: 0 & 0 msec.
+Last GPS Update times were:
+  1/1/1980 (1) 00:00:00 & 1/1/1980 (1) 00:00:00.
+Last GPS TurnOn times were:
+  5/2/2005 (122) 12:56:21 & 1/1/1980 (1) 00:00:36.
+Last GPS Lock times were:
+   1/1/1980 (1) 00:00:00 & 1/1/1980 (1) 00:00:00.
+Count of times GPS failed to lock
+    within gpsMaxTurnOnTime: 0
+
+
+Modem strings [ NULL TERMINATED ] from event header...
+ Initialization: AT&FE0&C1S0=1&W
+ Dialing Prefix: ATDT
+ Dialing Suffix: 
+ Hangup command: ATH0
+ Callout message: 
+ Callout Acknowledge message: 
+Cellular Phone Parameters:
+  Cellular Phone Power Control Output enabled.
+  Power control(CPPC) OFF, Duration 0 minutes.
+  Warmup or timed recording length: 0 seconds
+  Cell Trigger timed recordings are disabled.
+    Duration: Power control ON duration(minutes) + warmup(seconds).
+  Call-In Window Times or timed event start times: 
+   OFF    OFF    OFF    OFF    OFF 
+  CheckinTime(callout): not active
+ Phone Numbers: 
+   1:    2: 
+Automatic answer/callout OFF.
+ Wait for connection 45 seconds.
+ Pause 10 seconds between calls.
+ Extend pause between calls 0 minutes
+ Call complete based on MODEM ACK setting (0).
+ Max dial attempts: 10.
+
+Serial Data Stream Parameters:
+ Mode:   One 
+ Data Format:   Compressed
+ Disk Buffer Size (16K blocks): 64 
+ Transmission Sample Rate:  OFF 
+ Samples per Block: 0 
+ Channel(s) transmitted:  1 2 3 4 5 6
+
+End Altus K2 Header S/N 2384, C:\SISM\M0200001.EVT
+
+

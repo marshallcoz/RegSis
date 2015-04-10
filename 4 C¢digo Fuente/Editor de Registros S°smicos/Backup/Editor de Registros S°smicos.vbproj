@@ -1,0 +1,296 @@
+<VisualStudioProject>
+    <VisualBasic
+        ProjectType = "Local"
+        ProductVersion = "7.10.3077"
+        SchemaVersion = "2.0"
+        ProjectGuid = "{EDBC1C50-A1DC-4349-92B1-F16090357F07}"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = "Icns\Wave.ico"
+                AssemblyKeyContainerName = ""
+                AssemblyName = "Editor de Registros Sísmicos"
+                AssemblyOriginatorKeyFile = ""
+                AssemblyOriginatorKeyMode = "None"
+                DefaultClientScript = "JScript"
+                DefaultHTMLPageLayout = "Grid"
+                DefaultTargetSchema = "IE50"
+                DelaySign = "false"
+                OutputType = "WinExe"
+                OptionCompare = "Binary"
+                OptionExplicit = "On"
+                OptionStrict = "Off"
+                RootNamespace = "Editor_de_Registros_Sísmicos"
+                StartupObject = "Editor_de_Registros_Sísmicos.Form1"
+            >
+                <Config
+                    Name = "Debug"
+                    BaseAddress = "285212672"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = ""
+                    DefineDebug = "true"
+                    DefineTrace = "true"
+                    DebugSymbols = "true"
+                    IncrementalBuild = "true"
+                    Optimize = "true"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "1"
+                />
+                <Config
+                    Name = "Release"
+                    BaseAddress = "285212672"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = ""
+                    DefineDebug = "false"
+                    DefineTrace = "true"
+                    DebugSymbols = "false"
+                    IncrementalBuild = "false"
+                    Optimize = "true"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "1"
+                />
+                <Config
+                    Name = "SoloEditorReg"
+                    BaseAddress = "285212672"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = ""
+                    DefineDebug = "true"
+                    DefineTrace = "true"
+                    DebugSymbols = "true"
+                    IncrementalBuild = "true"
+                    Optimize = "false"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "1"
+                />
+                <Config
+                    Name = "soloINST"
+                    BaseAddress = "285212672"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = ""
+                    DefineDebug = "true"
+                    DefineTrace = "true"
+                    DebugSymbols = "true"
+                    IncrementalBuild = "true"
+                    Optimize = "false"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "1"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                />
+                <Reference
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                />
+                <Reference
+                    Name = "System.Drawing"
+                    AssemblyName = "System.Drawing"
+                />
+                <Reference
+                    Name = "System.Windows.Forms"
+                    AssemblyName = "System.Windows.Forms"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                />
+            </References>
+            <Imports>
+                <Import Namespace = "Microsoft.VisualBasic" />
+                <Import Namespace = "System" />
+                <Import Namespace = "System.Collections" />
+                <Import Namespace = "System.Data" />
+                <Import Namespace = "System.Drawing" />
+                <Import Namespace = "System.Diagnostics" />
+                <Import Namespace = "System.Windows.Forms" />
+            </Imports>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "App.config"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "AssemblyInfo.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Box.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "ClassDibujo.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Wave.ico"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Hojas\about.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Hojas\about.resx"
+                    DependentUpon = "about.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Hojas\bugger.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Hojas\bugger.resx"
+                    DependentUpon = "bugger.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Hojas\Escalar.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Hojas\Escalar.resx"
+                    DependentUpon = "Escalar.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Hojas\FiltrBound.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Hojas\FiltrBound.resx"
+                    DependentUpon = "FiltrBound.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Hojas\Form1.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Hojas\Form1.resx"
+                    DependentUpon = "Form1.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Hojas\guardar.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Hojas\guardar.resx"
+                    DependentUpon = "guardar.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Hojas\Lista.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Hojas\Lista.resx"
+                    DependentUpon = "Lista.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Hojas\prop.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Hojas\prop.resx"
+                    DependentUpon = "prop.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Hojas\Transf.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Hojas\Transf.resx"
+                    DependentUpon = "Transf.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Hojas\TRFview.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Hojas\TRFview.resx"
+                    DependentUpon = "TRFview.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Hojas\Ventana.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Hojas\Ventana.resx"
+                    DependentUpon = "Ventana.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Hojas\Zm.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Hojas\Zm.resx"
+                    DependentUpon = "Zm.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Icns\amort.ico"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Icns\Dere.ico"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Icns\espec.ico"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Icns\EspeNeg.ico"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Icns\Izqu.ico"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Icns\Wave.ico"
+                    BuildAction = "Content"
+                />
+            </Include>
+        </Files>
+    </VisualBasic>
+</VisualStudioProject>
+

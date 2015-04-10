@@ -1,0 +1,29 @@
+KW2ASC32: C:\SISM\M0200001.EVT   05/02/2005 13:19 
+ Header Version 1.40   Serial number: 2384
+ Station ID: SCTT Site: 
+  Channels: 4 Sampling rate: 100
+   Pre-event:  1 seconds.   Post-event: 1 seconds.
+Start time:  5/2/2005 (122) 13:17:54.000
+Trigger time:  5/2/2005 (122) 13:17:55.100
+Duration:  82.000 seconds, 820 frames, 8200 scans.
+   Currently checking for presence of GPS.
+GPS updated the RTC 0 times since last reset.
+Drift Rate at last two RTC updates to UTC: 0 & 0 msec.
+Last GPS Update times were:
+  1/1/1980 (1) 00:00:00 & 1/1/1980 (1) 00:00:00.
+Last GPS TurnOn times were:
+  5/2/2005 (122) 12:56:21 & 1/1/1980 (1) 00:00:36.
+Last GPS Lock times were:
+   1/1/1980 (1) 00:00:00 & 1/1/1980 (1) 00:00:00.
+Count of times GPS failed to lock
+    within gpsMaxTurnOnTime: 0
+Main battery: 13.40V, charging, minimum alarm voltage: 12.0V
+
+
+Writing formatted header, C:\SISM\M0200001.HDR, to disk.
+
+Files Created: C:\SISM\M0200001.SHD, 
+  C:\SISM\M0200001.001
+  C:\SISM\M0200001.002
+  C:\SISM\M0200001.003
+  C:\SISM\M0200001.004
